@@ -1,0 +1,28 @@
+p {
+    font-family: 'Odibee Sans', 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 2.3em;
+    color: rgb(255, 255, 255);
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+hr{
+    border-width: 5px;
+    max-width: 100%;
+    border-color: #66DC0F;
+}
+.btn{
+    background-color: #66DC0F;
+    border-color: #66DC0F;
+    margin: 10px;
+    padding: 1rem;
+    border-radius: 100px;
+}
+.btn-xl:hover{
+    background-color: #66DC0F;
+    border-radius: #66DC0F;
+    border-width: 4px;
+}

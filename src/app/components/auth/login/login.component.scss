@@ -1,0 +1,24 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+h3 {
+    font-family: 'Odibee Sans', 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.btn-login {
+    background-color: green;
+    border-color: green;
+    margin-right: 8px;
+}
+
+.margin-alert {
+    margin-left: 5px;
+}
+
+.form-group {
+    padding: 10px;
+}

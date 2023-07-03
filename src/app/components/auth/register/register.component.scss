@@ -1,0 +1,23 @@
+.container {
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+h3 {
+    font-family: 'Odibee Sans', 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.btn-regis {
+    background-color: green;
+    border-color: green;
+}
+
+.form-group {
+    padding: 10px;
+}
+
+.btn-secondary {
+    margin-left: 8px;
+}
